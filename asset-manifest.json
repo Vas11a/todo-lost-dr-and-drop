@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-lost-dr-and-drop/static/css/main.714f5178.css",
+    "main.js": "/todo-lost-dr-and-drop/static/js/main.ec71eb6f.js",
+    "index.html": "/todo-lost-dr-and-drop/index.html",
+    "main.714f5178.css.map": "/todo-lost-dr-and-drop/static/css/main.714f5178.css.map",
+    "main.ec71eb6f.js.map": "/todo-lost-dr-and-drop/static/js/main.ec71eb6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.714f5178.css",
+    "static/js/main.ec71eb6f.js"
+  ]
+}
